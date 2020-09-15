@@ -1,0 +1,13 @@
+C:\Users\David Santiago\Desktop\exampleOOP\oneintro\bin\Debug\netcoreapp3.1\oneintro.exe
+C:\Users\David Santiago\Desktop\exampleOOP\oneintro\bin\Debug\netcoreapp3.1\oneintro.deps.json
+C:\Users\David Santiago\Desktop\exampleOOP\oneintro\bin\Debug\netcoreapp3.1\oneintro.runtimeconfig.json
+C:\Users\David Santiago\Desktop\exampleOOP\oneintro\bin\Debug\netcoreapp3.1\oneintro.runtimeconfig.dev.json
+C:\Users\David Santiago\Desktop\exampleOOP\oneintro\bin\Debug\netcoreapp3.1\oneintro.dll
+C:\Users\David Santiago\Desktop\exampleOOP\oneintro\bin\Debug\netcoreapp3.1\oneintro.pdb
+C:\Users\David Santiago\Desktop\exampleOOP\oneintro\obj\Debug\netcoreapp3.1\oneintro.csprojAssemblyReference.cache
+C:\Users\David Santiago\Desktop\exampleOOP\oneintro\obj\Debug\netcoreapp3.1\oneintro.AssemblyInfoInputs.cache
+C:\Users\David Santiago\Desktop\exampleOOP\oneintro\obj\Debug\netcoreapp3.1\oneintro.AssemblyInfo.cs
+C:\Users\David Santiago\Desktop\exampleOOP\oneintro\obj\Debug\netcoreapp3.1\oneintro.csproj.CoreCompileInputs.cache
+C:\Users\David Santiago\Desktop\exampleOOP\oneintro\obj\Debug\netcoreapp3.1\oneintro.dll
+C:\Users\David Santiago\Desktop\exampleOOP\oneintro\obj\Debug\netcoreapp3.1\oneintro.pdb
+C:\Users\David Santiago\Desktop\exampleOOP\oneintro\obj\Debug\netcoreapp3.1\oneintro.genruntimeconfig.cache
